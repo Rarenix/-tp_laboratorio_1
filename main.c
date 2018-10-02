@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "arrayEmployees.h"
-#define CANT 30
+#define CANT 1000
 int main()
 {
     char seguir='s';
