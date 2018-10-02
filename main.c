@@ -16,7 +16,7 @@ int main()
             alta(emp,CANT,legajo);
             system("pause");
             system("cls");
-            legajo++;//LEGAJO AUTOINCREMENTAL
+            legajo++;//ID AUTOINCREMENTAL
             flag=1;
             break;
         case 2:
